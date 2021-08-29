@@ -1,2 +1,2 @@
-# discret.pretty
-Deprecated - DO NOT USE
+# DEPRECATED
+This library is deprecated and will be removed. 
